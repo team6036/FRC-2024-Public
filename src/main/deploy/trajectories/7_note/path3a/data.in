@@ -1,0 +1,39 @@
+{
+	"config": {
+		"map_w": 16.54,
+		"map_h": 8.21,
+		"side_length": 0.8320000000000001,
+		"mass": 64,
+		"moment_of_inertia": 6,
+		"efficiency_percent": 0.7,
+		"FOC": true,
+		"free_percent": 0.7
+	},
+	"nodes": [
+		{
+			"x": 11.124,
+			"y": 6.621,
+			"vx": 0,
+			"vy": 0,
+			"vt": 0,
+			"theta": 0.2999999999999998
+		},
+		{
+			"x": 8.566,
+			"y": 4.684,
+			"vx": null,
+			"vy": null,
+			"vt": null,
+			"theta": 1.0709999999999997
+		},
+		{
+			"x": 12.398892171344164,
+			"y": 4.960096011816839,
+			"vx": 0,
+			"vy": 0,
+			"vt": 0,
+			"theta": 0
+		}
+	],
+	"obstacles": []
+}
